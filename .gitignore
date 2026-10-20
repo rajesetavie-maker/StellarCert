@@ -9,7 +9,6 @@ coverage/
 stellar-contracts/test_snapshots/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -17,8 +16,6 @@ stellar-contracts/test_snapshots/
 .DS_Store
 
 # Environment variables
-.env
-.env.local
 .env.*.local
 
 # Logs
@@ -56,3 +53,7 @@ typed-doc/
 # One-off merge helpers / patch artifacts
 *.bundle
 *.patch
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
