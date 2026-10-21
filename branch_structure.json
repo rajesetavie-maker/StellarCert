@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1243-post-webhooks-always-fails-with-500-webhook",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1243-post-webhooks-always-fails-with-500-webhook": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1243-post-webhooks-always-fails-with-500-webhook",
+    "origin"
+  ]
+}
